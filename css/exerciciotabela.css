@@ -1,0 +1,45 @@
+table {
+  background-color:  rgb(62, 62, 252);
+    width: 50em;
+    /*border: 1px solid black;*/
+    border-collapse: collapse;
+   
+   
+    
+    
+    
+    
+  }
+  thead {
+    /*background: #ccc url(https://www.devfuria.com.br/html-css/tabelas/bar.gif) repeat-x left center;*/
+    /*border-top: 1px solid rgb(10, 2, 80);
+    border-bottom: 1px solid rgb(10, 2, 80);*/
+  }
+
+  thead{
+    color:whitesmoke;
+  }
+  td{
+    background-color: rgb(13, 13, 112);
+    border: 1px solid black;
+   
+
+    
+  }
+  .branco{
+    color:white;
+    text-align: left;
+    width: 50px;
+    background-color:  rgb(62, 62, 252);
+  }
+   .horario5{
+   height: 30px;
+   background-color:  rgb(62, 62, 252);
+   color: white;
+   text-align: left;
+
+  }
+  .white{
+    background-color: white;
+  }
+ 
